@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -15,4 +16,28 @@ printf("%d", n);
 }
 printf("\n");
 return (0);
+=======
+#include<stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Description: print all single digit numbers
+ *
+ * Return: Always 0 (Success)
+*/
+
+int main(void)
+{
+	int digit = 0;
+
+	while (digit <= 9)
+	{
+		printf("%i", digit);
+		++digit;
+	}
+	printf("\n");
+
+	return (0);
+>>>>>>> 5f3d3eca5a94dca1ea2ec72d99652cc44f458b3b
 }

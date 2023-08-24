@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x0F. C - Function pointers
 Mandatory
 
@@ -26,3 +27,10 @@ function_pointers.h - header file for 0-print_name.c, 1-array_iterator.c, and 2-
 Advanced
 
 100-main_opcodes.c - prints the opcodes of its own main function up to a specified number of bytes.
+=======
+int op_add(int a, int b) - returns the sum of a and b.
+int op_sub(int a, int b) - returns the difference of a and b.
+int op_mul(int a, int b) - returns the product of a and b.
+int op_div(int a, int b) - returns the result of the division of a by b.
+int op_mod(int a, int b) - returns the remainder of the division of a by b.
+>>>>>>> 5f3d3eca5a94dca1ea2ec72d99652cc44f458b3b

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x0C. C - More malloc, free
 Tasks
 0. Trust no one
@@ -52,3 +53,6 @@ Tasks
 		If the number of arguments is incorrect, print Error, followed by a new line, and exit with a status of 98
 		num1 and num2 should only be composed of digits. If not, print Error, followed by a new line, and exit with a status of 98
 		You are allowed to use more than 5 functions in your file
+=======
+this is a readme for this file
+>>>>>>> 5f3d3eca5a94dca1ea2ec72d99652cc44f458b3b
